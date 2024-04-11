@@ -13,7 +13,9 @@ document.getElementById('siBtn').addEventListener('click', function() {
     // Hiển thị thông điệp yêu thương
     document.getElementById('messageContainer').style.display = 'block';
     document.getElementById('messageContainer').innerHTML = 'Anh yêu em <i class="fas fa-heart"></i>';
-    
+    setTimeout(function() {
+        document.getElementById('happyGifContainer').style.display = 'block';
+    }, 1000);  
 
 });
 
