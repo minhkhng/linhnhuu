@@ -12,7 +12,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Hiển thị thông điệp yêu thương
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = 'Anh yêu em <i class="fas fa-heart"></i>';
+    document.getElementById('messageContainer').innerHTML = 'Anh yêu Linh Như <i class="fas fa-heart"></i>';
     
 
 });
