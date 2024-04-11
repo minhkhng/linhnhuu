@@ -62,7 +62,7 @@ button {
 }
 
 #messageContainer {
-    font-size: 80px;
+    font-size: 50px;
     color: #FF0000; /* Color rojo */
     font-family: 'YourDesiredFont', sans-serif; /* Reemplaza 'YourDesiredFont' con la fuente que desees */
     text-shadow: 2px 2px 4px #000; /* Borde simulado */
